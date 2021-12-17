@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudioPlayer.DAO.DatabaseCommands" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACQIAAAAAQABAAAAEAAMIAQAAAAAQAAAAAA=</HashCode>
+      <FileName>DAO\DatabaseCommands.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AudioPlayer.DAO.DatabaseConnection">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DAO\DatabaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AudioPlayer.DAO.IDAO">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAQABAAAAEAAMIAQAAAAAQAAAAAA=</HashCode>
+      <FileName>DAO\DAO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
